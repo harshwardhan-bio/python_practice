@@ -5,7 +5,7 @@ or biotech scenario wherever possible. This is my practice log, not a polished
 portfolio project — see my other repos for those.
 
 ## 🎓 About
-B.Sc. Biotechnology student @ SRM IST, learning Python with a focus on future
+B.S. Biotechnology student @ SRM IST, learning Python with a focus on future
 work in bioinformatics and computational biology.
 
 ## 📂 Exercises
