@@ -1,21 +1,23 @@
 # Python Practice — Bioinformatics Edition 🧬
 
-Small Python exercises from my learning journey, each one built around a biology
-or biotech scenario wherever possible. This is my practice log, not a polished
-portfolio project — see my other repos for those.
+18 Python exercises covering fundamentals through bioinformatics concepts,
+each one built around a biology or biotech scenario wherever possible.
+This is my structured practice log — for full portfolio projects, see
+[bioinformatics-projects](https://github.com/harshwardhan-bio/bioinformatics-projects).
 
 ## 🎓 About
-B.S. Biotechnology student @ SRM IST, learning Python with a focus on future
-work in bioinformatics and computational biology.
+
+B.Sc. Biotechnology student @ SRM IST, learning Python with a focus on
+bioinformatics and computational biology.
 
 ## 📂 Exercises
 
 | # | File | Concept Practiced |
-|---|------|--------------------|
+|---|------|--------------------||
 | 01 | `01_movie_ticket_pricer.py` | if / elif / else, type conversion |
 | 02 | `02_canteen_order_bot.py` | string methods, conditions |
 | 03 | `03_lab_security_system.py` | compound conditions (`and`) |
-| 04 | `04_dna_base_pairing.py` | match / case |
+| 04 | `04_dna_base_pairing.py` | match / case (structural pattern matching) |
 | 05 | `05_sip_tracker.py` | for loops, accumulator pattern |
 | 06 | `06_boss_fight.py` | while loops |
 | 07 | `07_gc_content_analyzer.py` | string counting, nested conditions |
@@ -32,13 +34,21 @@ work in bioinformatics and computational biology.
 | 18 | `18_concentration_calculator.py` | try / except / finally |
 
 ## 🛠️ How to run any file
+
 ```bash
 python 07_gc_content_analyzer.py
 ```
 
 ## 🎯 What's next
-Moving on to BioPython, Pandas, and my first full portfolio project —
-a DNA Sequence Analyzer.
+
+These exercises built the foundation for my full bioinformatics projects —
+a GC Content Analyzer, DNA Sequence Analyzer, and BioSequence Visualizer
+with Matplotlib — all available in my
+[bioinformatics-projects](https://github.com/harshwardhan-bio/bioinformatics-projects) repo.
+
+Currently working on a Gene Expression Visualizer using NCBI datasets + Pandas.
 
 ## 🔗 Connect
-[LinkedIn](YOUR_LINKEDIN_URL) | [GitHub Profile](YOUR_GITHUB_URL)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshwardhan-%E3%85%A4-851b46383)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/harshwardhan-bio)
